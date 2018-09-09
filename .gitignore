@@ -1,0 +1,5 @@
+# SSH用公開鍵
+remote_files/user/authorized_keys
+
+# Ruby Gem
+vendor/bundle
